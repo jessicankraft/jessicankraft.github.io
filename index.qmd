@@ -1,7 +1,16 @@
 ---
-title: "Jessica Kraft's Website"
+title: "Jessica Kraft"
+subtitle: "Postdoctoral Researcher at the University of Texas at Dallas"
+image: images/headshot.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jessicankraft/
+    - icon: github
+      text: Github
+      href: https://github.com/jessicankraft
+
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am interested in understanding mechanisms underlying brain and cognitive aging. My research focuses on the relationship between aging, inflammation and bioenergetics, as well as their effects on markers of brain aging
